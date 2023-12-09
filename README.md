@@ -3,7 +3,7 @@
 ![alt text](https://i.ibb.co/94b8xcB/linkdin-cover-photo.pnghttps://i.ibb.co/F79zbdW/linkdin-cover-photo-1.png)
 
 # About me:
-Hello! I'm Reshma Khanam, a MERN stack developer based in Dhaka, Bangladesh. Known for my proficiency in web development, I aspire to expand my skills and venture into app development in the future. I am a quick learner with a strong work ethic, ensuring that I complete tasks efficiently and on time. Punctuality is a key strength of mine, and I pride myself on being a dedicated and hardworking professional. Looking forward to embracing new challenges and contributing my expertise to innovative projects.
+Hello, I'm Reshma Khanam, a MERN stack developer from Dhaka, Bangladesh. Renowned for my quick learning, hard work, and punctuality, I excel in web development and am eager to explore app development. My dedication ensures timely project completion. On the flip side, my insatiable enthusiasm for learning new technologies can make me a bit restless at times. Nevertheless, this drive keeps me adaptable in the ever-evolving tech landscape. Excited about contributing my skills to innovative projects!
 
 # My Stats:
 
