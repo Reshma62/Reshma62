@@ -2,6 +2,11 @@
 
 ![alt text](https://i.ibb.co/94b8xcB/linkdin-cover-photo.pnghttps://i.ibb.co/F79zbdW/linkdin-cover-photo-1.png)
 
+# About me:
+Hello! I'm Reshma Khanam, a MERN stack developer based in Dhaka, Bangladesh. Known for my proficiency in web development, I aspire to expand my skills and venture into app development in the future. I am a quick learner with a strong work ethic, ensuring that I complete tasks efficiently and on time. Punctuality is a key strength of mine, and I pride myself on being a dedicated and hardworking professional. Looking forward to embracing new challenges and contributing my expertise to innovative projects.
+
+# My Stats:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reshma62&theme=ambient-gradient)](https://git.io/streak-stats)
 
 
