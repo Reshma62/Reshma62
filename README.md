@@ -1,9 +1,12 @@
-### Hi there 👋
 
-<!--
-**Reshma62/Reshma62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![alt text](https://i.ibb.co/94b8xcB/linkdin-cover-photo.pnghttps://i.ibb.co/F79zbdW/linkdin-cover-photo-1.png)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reshma62&theme=ambient-gradient)](https://git.io/streak-stats)
+
+
+# My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,tailwind,bootstrap,js,react,jquery,mongodb,vite,wordpress,nodejs,express,nextjs,gatsby,ps,postman,redux,figma,firebase,github)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
